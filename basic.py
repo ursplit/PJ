@@ -5,3 +5,4 @@ name = input("Enter your name: ")
 
 # Output: Display the name
 print(f"Hello, {name}!")
+print("Done")
